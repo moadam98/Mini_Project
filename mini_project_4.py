@@ -2,7 +2,7 @@ from mp_functions import space, read_csv_file, save_csv_file, append_dict, updat
 from csv import DictWriter, DictReader
 from pprint import pprint
 
-print("""\033[1;32m\nHi there, welcome to your cafe ordering app\033[0m""")
+print("""\033[1;32m\n Hi there, welcome to your cafe ordering app\033[0m""")
 
 products = []
 couriers = []
