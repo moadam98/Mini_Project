@@ -2,7 +2,7 @@ import csv
 from csv import DictWriter, DictReader
 
 def space():
-    print( '\n')
+    print('\n')
 
 
 # Read
