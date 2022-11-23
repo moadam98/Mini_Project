@@ -53,7 +53,7 @@ Starting this project being a beginner and evolving into a more proficient coder
 During the course of the project, flexibility was required to ensure the requirements were met. Refactoring the code, rewriting functions and looking for new ways to meet the requirements were essential for this and were pursued consistently.
 
 ## Project Improvements
-Due to time constraints I was unable to finish off my testing. This would have allowed me to gain a higher quality and more efficient code.With more time I'd like to implement week 5 and 6 of the clients spec but, with the current iteration of the program it would greatly benefit from implementing try-except blocks for when the user is asked to enter a value requiring a certain datatype. There is also future room to expand this project to be linked to a database as our client expands their business.
+Due to time constraints I was unable to finish off my testing. This would have allowed me to gain a higher quality and more efficient code. With more time I'd like to implement week 5 and 6 of the clients spec but, with the current iteration of the program it would greatly benefit from implementing try-except blocks for when the user is asked to enter a value requiring a certain datatype. There is also future room to expand this project to be linked to a database as our client expands their business.
 
 I would consider refactoring and taking an object-orientated approach. This may make the process of refactoring the code to implement the use of a database much more feasible.
 
