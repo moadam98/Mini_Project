@@ -17,29 +17,48 @@ Due to time constraints I was unable to finish off my testing. This would have a
 ## Project Implementation
 I enjoyed making my code look neater by implementing different colours for certain menu inputs.
 
-## Current features
-Manage the Products: 
-Show all the products,
-Add new product, 
-Delete a product,
-Update products,
-Save product list in csv format
-    
-    
-Manage the Orders:
-Display orders details,
-Create orders,
-Update an existing order,
-Update order status,
-Delete orders,
-Save orders in csv format
-    
-Manage the Couriers:
-Show all couriers,
-Add new couriers,
-Update Couriers details,
-Delete Couriers,
-Save couriers in csv format
+## Roadmap
+
+- [ ] Week 1
+  ``` 
+  As a user I want to:
+  create a product and add it to a list
+  view all products
+  STRETCH update or delete a product
+  ```
+
+- [ ] Week 2
+  ```
+  As a user I want to:
+  create a product or order and add it to a list
+  view all products or orders
+  STRETCH I want to be able to update or delete a product or orde
+  ```
+  
+- [ ] Week 3
+  ```
+  As a user I want to:
+  create a product, courier, or order and add it to a list
+  view all products, couriers, or orders
+  update the status of an order
+  persist my data (products and couriers)
+  STRETCH update or delete a product, order, or courier
+  ```
+  
+- [ ] Week 4
+  ```
+  To show that our code works, we will also need to write unit tests to prove that
+  our app works correctly.
+  
+  As a user I want to:
+  create a product, courier, or order dictionary and add it to a list
+  view all products, couriers, or orders
+  update the status of an order
+  persist my data
+  STRETCH update or delete a product, order, or courier
+  BONUS list orders by status or courier
+  ```
+
     
 ## Dependicies 
 Python 3.10.7+
