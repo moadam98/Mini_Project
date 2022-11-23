@@ -12,10 +12,12 @@ Starting this project being a beginner and evolving into a more proficient coder
 During the course of the project, flexibility was required to ensure the requirements were met. Refactoring the code, rewriting functions and looking for new ways to meet the requirements were essential for this and were pursued consistently.
 
 ## Project Improvements
-Due to time constraints I was unable to finish off my testing. This would have allowed me to gain a higher quality and more efficient code. I'd also like to implement week 5 and 6 into the program.
+Due to time constraints I was unable to finish off my testing. This would have allowed me to gain a higher quality and more efficient code. I'd also like to implement week 5 and 6 into the program. There is also future room to expand this project to be linked to a database as our client expands their business.
+
+I would consider refactoring and taking an object-orientated approach. This may make the process of refactoring the code to implement the use of a database much more feasible.
 
 ## Project Implementation
-I enjoyed making my code look neater by implementing different colours for certain menu inputs.
+I enjoyed making my code look neater by implementing different colours for certain menu inputs. It also was fun to learn how to write a programme that meets the given specifications and to see how it runs when you have no prior knowledge of the field.
 
 ## Roadmap
 
